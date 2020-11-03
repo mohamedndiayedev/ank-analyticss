@@ -142,7 +142,7 @@ include('includes/header.php');
           <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
             <div class="content">
-              <h3><strong>ANL ANALYTICS</strong> - What we do the best :</h3>
+              <h3><strong>ANK ANALYTICS</strong> - What we do the best :</h3>
               <p>
               We cover a wide range of business sectors. Our achievements combine the expertise of its consultants with the wealth of applications made possible by different technologies of the Internet.
               </p>
@@ -314,7 +314,7 @@ include('includes/header.php');
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
             <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p></p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
             <a class="cta-btn align-middle" href="#">Call To Action</a>
