@@ -547,7 +547,7 @@ include('includes/header.php');
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
             <div class="box featured">
-              <h3>Business Plan</h3>
+              <h3>BUSINESS PLAN</h3>
               <h4><sup>$</sup>20<span>per month</span></h4>
               <ul>
                 <li><i class="bx bx-check"></i> Sales Transaction unlimited</li>
@@ -568,7 +568,7 @@ include('includes/header.php');
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
-              <h3>Premium Plan</h3>
+              <h3>PREMIUM PLAN</h3>
               <h4><sup>$</sup>49<span>per month</span></h4>
               <ul>
                 <li><i class="bx bx-check"></i> Sales Transaction unlimited</li>
